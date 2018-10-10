@@ -8,18 +8,6 @@ public class HelloWorld {
 		
 		System.out.println("1234");
 		
-        System.out.println("ffd");
-		System.out.println("ffd");
-		System.out.println("ffd");
-		
-		
-		System.out.println("ffd");
-
-        System.out.println("1234");
-		
-		System.out.println(msg);
-		
-		
     }
 
 }
