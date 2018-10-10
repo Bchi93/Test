@@ -6,8 +6,13 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
 		
 		
-		System.out.println("1234");
+		System.out.println("xxx");
+		System.out.println("xxx");
+		System.out.println("xxx");
+		System.out.println("xxx");
+		System.out.println("xxx");
 		
+		System.out.println("xxx");
     }
 
 }
