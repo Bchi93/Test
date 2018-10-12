@@ -1,20 +1,13 @@
 public class HelloWorld {
 	
-	private String msg = "test";
-
     public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
 		
+		Test test = new Test();
 		
-		System.out.println("xxx");
-		System.out.println("xxx");
-		System.out.println("xxx");
-		System.out.println("xxx");
-		System.out.println("xxx");
-		
-		System.out.println("xxx");
-		
-		
+		test.test("Hello World");
     }
-
+	
+	public void test(String msg){
+		System.out.println(msg);
+	}
 }
